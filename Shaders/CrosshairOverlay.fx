@@ -2,7 +2,7 @@
 | :: Description :: |
 '-------------------/
 
-    Layer (version 1.0)
+    Layer (version 1.1)
 
     Author: c0dycode
     License: MIT
@@ -13,6 +13,9 @@
 
     History:
     (*) Feature (+) Improvement (x) Bugfix (-) Information (!) Compatibility
+
+    Version 1.1 by c0dycode
+    * Added alpha/transparency option
 
     Version 1.0 by c0dycode
     * Added the ability to scale and move the layer around on XY axis
